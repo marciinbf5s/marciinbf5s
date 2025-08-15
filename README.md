@@ -1,6 +1,6 @@
 # Márcio Moraes
 
-🎯 **Desenvolvedor Full Stack** apaixonado por **IA**, **criptomoedas** e **tecnologia**.  
+🎯 **Desenvolvedor Full Stack** fascinado por **IA**, **criptomoedas** e **tecnologia**.  
 🎓 **Estudante de Segurança da Informação** e entusiasta de soluções modernas e escaláveis.  
 🚀 Sempre em busca de aprender, criar e contribuir com projetos inovadores.  
 
