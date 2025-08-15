@@ -25,7 +25,7 @@
 - 🧠 **Inteligência Artificial**
 - 💸 **Blockchain & Criptomoedas**
 - 🌐 **APIs RESTful**
-- ☁️ **Infraestrutura com Docker**
+
 
 ---
 
