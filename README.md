@@ -20,13 +20,19 @@
 
 ---
 
-## 🛡️ Interesses em Destaque
+🛡️ Interesses em Destaque
 
-- 🔐 **Segurança da Informação**
-- 🧠 **Inteligência Artificial**
-- 💸 **Blockchain & Criptomoedas**
-- 🌐 **APIs RESTful**
+🔐 Segurança da Informação
+Criptografia, segurança ofensiva (pentest), segurança defensiva, OWASP, autenticação/autorização, práticas de secure coding.
 
+🧠 Inteligência Artificial & Machine Learning
+Modelagem preditiva, NLP, visão computacional, redes neurais, aplicações práticas em automação e análise de dados.
+
+💸 Blockchain & Criptomoedas
+Contratos inteligentes (smart contracts), finanças descentralizadas (DeFi), segurança em blockchain, Ethereum, Bitcoin.
+
+🌐 Desenvolvimento de APIs RESTful & Web Services
+Criação e consumo de APIs seguras e escaláveis, autenticação com JWT, versionamento, boas práticas REST, documentação com Swagger/OpenAPI.
 
 ---
 
