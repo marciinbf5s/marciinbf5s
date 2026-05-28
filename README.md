@@ -1,40 +1,184 @@
-# Márcio Moraes
+# 👨‍💻 Márcio Moraes
 
-🎯 **Desenvolvedor Full Stack** fascinado por **IA**, **criptomoedas** e **tecnologia**.  
-🎓 **Estudante de Segurança da Informação** e entusiasta de soluções modernas e escaláveis.  
-🚀 Sempre em busca de aprender, criar e contribuir com projetos inovadores.  
-
----
-
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)             | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)       |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)          | ![RESTful](https://img.shields.io/badge/RESTful-02569B?style=for-the-badge\&logo=rest\&logoColor=white)             | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)    | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)    |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)                | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)          | ![PyMongo](https://img.shields.io/badge/PyMongo-4F8A6F?style=for-the-badge\&logo=mongodb\&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)               | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)          | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)             | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)         |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)                     | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)                      | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)             |                                                                                                            |
-
-
-🛡️ Interesses em Destaque
-
-🔐 Segurança da Informação
-Criptografia, segurança ofensiva (pentest), segurança defensiva, OWASP, autenticação/autorização, práticas de secure coding.
-
-🧠 Inteligência Artificial & Machine Learning
-Modelagem preditiva, NLP, visão computacional, redes neurais, aplicações práticas em automação e análise de dados.
-
-💸 Blockchain & Criptomoedas
-Contratos inteligentes (smart contracts), finanças descentralizadas (DeFi), segurança em blockchain, Ethereum, Bitcoin.
-
-🌐 Desenvolvimento de APIs RESTful & Web Services
-Criação e consumo de APIs seguras e escaláveis, autenticação com JWT, versionamento, boas práticas REST, documentação com Swagger/OpenAPI.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Cybersecurity+Student;AI+%26+Blockchain+Enthusiast;Python+%7C+Java+%7C+TypeScript+Developer" />
+</p>
 
 ---
 
-## 📫 Vamos nos Conectar?  
+<p align="center">
+🎯 Desenvolvedor Full Stack apaixonado por tecnologia, segurança da informação, inteligência artificial e blockchain.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcio-moraes-a8b981292/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciin78/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5538998648842)  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:seuemail@exemplo.com)
+<p align="center">
+🚀 Sempre construindo projetos modernos, escaláveis e inovadores.
+</p>
 
 ---
 
+# 🚀 Tecnologias & Ferramentas
 
-⭐ _Se gostou do meu perfil, não esqueça de deixar uma estrela nos repositórios!_
+## 💻 Linguagens
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express" />
+</p>
+
+---
+
+## 🗄 Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" />
+</p>
+
+---
+
+## 🛠 Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+# 🧠 Áreas de Interesse
+
+## 🔐 Segurança da Informação
+
+* Pentest
+* OWASP
+* Secure Coding
+* Autenticação & Autorização
+* Segurança ofensiva e defensiva
+* Criptografia
+
+---
+
+## 🧠 Inteligência Artificial & Machine Learning
+
+* Redes neurais
+* NLP
+* Visão computacional
+* Automação inteligente
+* IA aplicada em sistemas reais
+
+---
+
+## 💸 Blockchain & Criptomoedas
+
+* Smart Contracts
+* DeFi
+* Segurança Blockchain
+* Ethereum
+* Bitcoin
+* Trading Bots
+
+---
+
+## 🌐 APIs & Sistemas Escaláveis
+
+* REST APIs
+* JWT Authentication
+* Swagger/OpenAPI
+* Microsserviços
+* Arquiteturas modernas
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📌 Projetos em Destaque
+
+🚀 Alguns projetos que desenvolvo:
+
+* 🤖 Bots de Trading com IA
+* 💈 Sistema SaaS para Barbearias
+* 📄 Processamento Inteligente de PDFs
+* 🎮 Jogos com IA usando Python
+* 🔐 Ferramentas de Segurança da Informação
+* 🌐 APIs modernas e escaláveis
+
+---
+
+# 📫 Vamos nos Conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m%C3%A1rcio-moraes-a8b981292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/marciin78/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/5538998648842">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 👀 Visitantes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Se gostou do meu perfil ou dos meus projetos, considere deixar uma estrela nos repositórios!
+</p>
