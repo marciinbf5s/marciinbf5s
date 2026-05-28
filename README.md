@@ -79,7 +79,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/6e/5a/58/6e5a58c9d6d4c172e663b8f0b8d8d0c7.gif" width="700"/>
 </p>
 # ⚡ Tech Focus
 
