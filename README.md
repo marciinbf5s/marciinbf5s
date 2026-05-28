@@ -81,11 +81,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/6b/8f/92/6b8f92c7f9cb7fcb5b2d8f4a72e8b5d4.gif" width="700"/>
 </p>
-# ⚡ Tech Focus
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,nextjs,docker,postgres,tensorflow&theme=dark" />
-</p>
 
 ---
 
