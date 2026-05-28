@@ -18,42 +18,8 @@
 
 # 🚀 Tecnologias & Ferramentas
 
-## 💻 Linguagens
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
-</p>
-
----
-
-## ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express" />
-</p>
-
----
-
-## 🗄 Banco de Dados
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
----
-
-## 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" />
-</p>
-
----
-
-## 🛠 Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,flask,fastapi,nodejs,express,postgres,mysql,mongodb,react,nextjs,vue,html,css,tailwind,git,github,docker,linux,vscode&perline=11" />
 </p>
 
 ---
@@ -102,7 +68,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
