@@ -78,12 +78,12 @@
 * Arquiteturas modernas
 
 ---
-# 🌌 Developer Environment
+# ⚡ System Initialization
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E+Initializing+Developer+Environment...;%3E+Loading+AI+Modules...;%3E+Connecting+to+Blockchain...;%3E+Cybersecurity+Systems+Online..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2200&pause=900&color=39FF14&center=true&vCenter=true&multiline=true&width=1100&height=150&lines=root%40marcio%3A~%24+starting+developer+environment;loading+full-stack+modules...;initializing+cybersecurity+tools...;connecting+to+cloud+database...;starting+AI+training+models...;blockchain+network+online..." />
 </p>
----
+
 
 # 📌 Projetos em Destaque
 
