@@ -78,8 +78,10 @@
 * Arquiteturas modernas
 
 ---
+# 🌌 Developer Environment
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="700"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E+Initializing+Developer+Environment...;%3E+Loading+AI+Modules...;%3E+Connecting+to+Blockchain...;%3E+Cybersecurity+Systems+Online..." />
 </p>
 ---
 
