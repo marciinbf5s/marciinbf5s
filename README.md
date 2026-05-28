@@ -24,8 +24,6 @@
 
 ---
 
-# 🧠 Áreas de Interesse
-
 ## 🔐 Segurança da Informação
 
 * Pentest
@@ -127,12 +125,9 @@
 
 ---
 
-# 👀 Visitantes
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge"/>
 </p>
-
 ---
 
 <p align="center">
