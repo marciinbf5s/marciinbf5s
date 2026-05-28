@@ -23,6 +23,19 @@
 </p>
 
 ---
+# 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge"/>
+</p>
+---
+
 
 ## 🔐 Segurança da Informação
 
@@ -114,18 +127,6 @@
 
 ---
 
-# 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge"/>
-</p>
----
 
 <p align="center">
 ⭐ Se gostou do meu perfil ou dos meus projetos, considere deixar uma estrela nos repositórios!
