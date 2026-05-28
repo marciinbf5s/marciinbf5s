@@ -78,10 +78,23 @@
 * Arquiteturas modernas
 
 ---
+# 👨‍💻 Márcio Moraes
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Cybersecurity+Student;AI+%26+Blockchain+Enthusiast;Python+%7C+Java+%7C+TypeScript+Developer" />
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
 
+<p align="center">
+  
+💻 Full Stack Developer • 🔐 Cybersecurity • 🤖 AI • 💸 Blockchain
+
+</p>
+
+---
 # ⚡ Tech Focus
 
 <p align="center">
