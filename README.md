@@ -66,12 +66,9 @@
 
 ---
 
-# 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Márcio%20Moraes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Cybersecurity%20•%20AI%20•%20Blockchain&descAlignY=55"/>
 </p>
-
 ---
 
 # ⚡ Tech Focus
