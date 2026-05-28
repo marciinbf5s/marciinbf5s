@@ -68,13 +68,6 @@
 
 ---
 
-# 🧠 Tech Ecosystem
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,linux,git&theme=dark" />
-</p>
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
