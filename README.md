@@ -68,19 +68,11 @@
 
 ---
 
-# ⚡ Tecnologias Favoritas
+# 🧠 Tech Ecosystem
 
-<table align="center">
-<tr>
-<td align="center">🐍 Python</td>
-<td align="center">☕ Java</td>
-<td align="center">⚛ React</td>
-<td align="center">▲ Next.js</td>
-<td align="center">🐘 PostgreSQL</td>
-<td align="center">🐳 Docker</td>
-</tr>
-</table>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,react,nextjs,nodejs,fastapi,postgres,mongodb,docker,linux,git&theme=dark" />
+</p>
 ---
 
 # 🔥 GitHub Streak
