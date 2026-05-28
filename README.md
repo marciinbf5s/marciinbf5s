@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Cybersecurity+Student;AI+%26+Blockchain+Enthusiast;Python+%7C+Java+%7C+TypeScript+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge"/>
-</p>
-
 ---
 
 <p align="center">
@@ -23,23 +19,7 @@
 # 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,vue,nodejs,express,fastapi,flask,postgres,mysql,mongodb,docker,linux,git,github,vscode&theme=dark" />
-</p>
-
----
-
-# ⚡ Stack Principal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,nextjs,postgres,docker&theme=dark" />
-</p>
-
----
-
-# 🧠 Atualmente Estudando
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,kubernetes,tensorflow,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,flask,fastapi,nodejs,express,postgres,mysql,mongodb,react,nextjs,vue,html,css,tailwind,git,github,docker,linux,vscode&perline=11" />
 </p>
 
 ---
@@ -57,7 +37,7 @@
 
 ---
 
-## 🤖 Inteligência Artificial & Machine Learning
+## 🧠 Inteligência Artificial & Machine Learning
 
 * Redes neurais
 * NLP
@@ -88,33 +68,20 @@
 
 ---
 
-# 💡 Atualmente Trabalhando Em
-
-* 🤖 Bots de Trading com IA
-* 💈 SaaS para Barbearias
-* 📄 Processamento Inteligente de PDFs
-* 🎮 Jogos com IA usando Python
-* 🔐 Ferramentas de Segurança da Informação
-* 🌐 APIs modernas e escaláveis
-
----
-
-# ⚡ Diferenciais
-
-✔ Desenvolvimento Full Stack
-✔ Segurança da Informação
-✔ Inteligência Artificial
-✔ Blockchain & Criptomoedas
-✔ APIs Escaláveis
-✔ Sistemas SaaS
-✔ Automação Inteligente
-
----
-
-# 🔥 Tecnologias que Mais Uso
+# ⚡ GitHub Analytics
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -122,18 +89,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
-
----
-
-# 🎯 Objetivos
-
-* 🚀 Evoluir como Engenheiro de Software
-* 🧠 Aprofundar conhecimentos em IA
-* 🔐 Especializar em Cybersecurity
-* 💸 Construir soluções Web3
-* 🌎 Criar produtos SaaS escaláveis
 
 ---
 
@@ -176,6 +133,14 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 👀 Visitantes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
