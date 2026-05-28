@@ -79,9 +79,8 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="700"/>
 </p>
-
 ---
 
 # 📌 Projetos em Destaque
