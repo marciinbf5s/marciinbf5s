@@ -68,13 +68,18 @@
 
 ---
 
-# ⚡ GitHub Analytics
+# ⚡ Tecnologias Favoritas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">🐍 Python</td>
+<td align="center">☕ Java</td>
+<td align="center">⚛ React</td>
+<td align="center">▲ Next.js</td>
+<td align="center">🐘 PostgreSQL</td>
+<td align="center">🐳 Docker</td>
+</tr>
+</table>
 
 ---
 
