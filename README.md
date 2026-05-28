@@ -86,10 +86,10 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# ⚡ Tech Focus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://skillicons.dev/icons?i=python,java,nextjs,docker,postgres,tensorflow&theme=dark" />
 </p>
 
 ---
