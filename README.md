@@ -33,7 +33,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge"/>
 </p>
----
 
 
 ## 🔐 Segurança da Informação
