@@ -22,14 +22,13 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,flask,fastapi,nodejs,express,postgres,mysql,mongodb,react,nextjs,vue,html,css,tailwind,git,github,docker,linux,vscode&perline=11" />
 </p>
 
----
 # 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+Perfil&color=0e75b6&style=for-the-badge"/>
