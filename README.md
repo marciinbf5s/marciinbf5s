@@ -19,7 +19,7 @@
 # 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,flask,fastapi,nodejs,express,postgres,mysql,mongodb,react,nextjs,vue,html,css,tailwind,git,github,docker,linux,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,flask,fastapi,nodejs,express,postgres,mysql,mongodb,react,nextjs,vue,html,css,tailwind,git,github,docker,linux,vscode&perline=11" />
 </p>
 
 # 🐍 Contribuições
